@@ -1,0 +1,11 @@
+{
+  "allowed_hwids": [
+    "PASTE_YOUR_HWID_HERE"
+  ],
+  "scripts": [
+    {
+      "name": "Example",
+      "file": "example.lua"
+    }
+  ]
+}
