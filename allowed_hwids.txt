@@ -1,3 +1,3 @@
 # One HWID per line (from curwe_hwid.txt after running the loader)
 # Lines starting with # are ignored
-060C3F2310DE25A2DA5A9013
+#060C3F2310DE25A2DA5A9012
