@@ -1,3 +1,4 @@
 # One HWID per line (managed by curwe-admin)
 # Lines starting with # and a letter are comments
 
+060C3F2310DE25A2DA5A9012
